@@ -8,7 +8,7 @@ import re
 ----------------------------
 '''
 account = {
-	'www.sexinsex.net':('co2co','helloworld','http://www.aaa.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
+	'www.sexinsex.net':('helloworld','helloworld','http://www.aaa.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
 	'www.b.com':('bbb','bbb','http://www.bbb.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1')
 }
 
