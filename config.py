@@ -8,9 +8,8 @@ import re
 ----------------------------
 '''
 account = {
-	'www.a.com':('aaa','aaa','http://www.aaa.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
-	'www.b.com':('bbb','bbb','http://www.bbb.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
-	'www.c.net':('ccc','ccc','http://www.ccc.net/bbs/logging.php?action=login')
+	'www.sexinsex.net':('co2co','helloworld','http://www.aaa.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
+	'www.b.com':('bbb','bbb','http://www.bbb.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1')
 }
 
 
@@ -22,7 +21,7 @@ ThreadPool = 10
 
 '''这是代理服务器设置文件，请按照格式设置以及确保代理服务器处于正常运作状态。不使用代理（直连）请留空'''
 proxies = {
-			'http':'127.0.0.1:7777'
+			'''http':'127.0.0.1:7777'''
 }
 
 
