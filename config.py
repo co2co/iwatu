@@ -8,8 +8,8 @@ import re
 ----------------------------
 '''
 account = {
-	'www.sexinsex.net':('helloworld','helloworld','http://www.aaa.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
-	'www.b.com':('bbb','bbb','http://www.bbb.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1')
+	'www.aaa.net':('username','password','http://www.aaa.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1'),
+	'www.bbbb.com':('username','password','http://www.bbb.com/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&inajax=1')
 }
 
 

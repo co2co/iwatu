@@ -12,11 +12,11 @@ def print_it(table):
 def main():
 
 	target = [
-				'http://www.sexinsex.net/bbs/forum-249-1.html',  #这些是虚构网址，请用实际存在的网址替换
-				'http://www.sexinsex.net/bbs/forum-432-1.html' 
+				'http://www.aaa.net/bbs/forum-249-1.html',  #这些是虚构网址，请用实际存在的网址替换
+				'http://www.bbb.net/bbs/forum-432-1.html'
 				]
 
-	iwatu = iWaTu('www.sexinsex.net')  #实例化类并且传入域名作为参数
+	iwatu = iWaTu('www.aaa.net')  #实例化类并且传入域名作为参数
 	start = time.time()
 	for each_link in target:
 		iwatu.handle_pagelist(each_link,1)
